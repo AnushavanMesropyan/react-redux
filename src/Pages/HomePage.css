@@ -1,0 +1,11 @@
+.load {
+   text-align: center;
+    padding: 10px 20px ;
+}
+.load button {
+    background: gray;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
